@@ -16,7 +16,7 @@ $html = file_get_contents($url);
 // This step is highly recommended - PHP's default HTML parser
 // often does a terrible job and results in strange output.
 if (function_exists('tidy_parse_string')) {
-	$tidy = tidy_parse_string($html, array('indent'=>true), 'UTF8');
+	$tidy = tidy_parse_string($html, array(), 'UTF8');
 	$tidy->cleanRepair();
 	$html = $tidy->value;
 }
