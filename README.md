@@ -3,13 +3,13 @@ PHP Readability
 
 This is a PHP port of Arc90's original Javascript version of Readability. (Arc90 has since relaunched the project.)
 
-For instructions on how to use this, please see http://www.keyvan.net/2010/08/php-readability/
+For instructions on how to use this, please see <http://www.keyvan.net/2010/08/php-readability/>
 
 For a more flexible and robust solution to article extraction, take a look at [Full-Text RSS](http://fivefilters.org/content-only/) - it makes use of PHP Readability, but offers much more.
 
 Feel free to fork this and change/improve it. I would love to see your results. Please do share them and I'll consider pulling them in.
 
-PHP Readability is licensed under the Apache License, Version 2.0 (the same license as the original JS version). The original Javascript version can be found here: http://code.google.com/p/arc90labs-readability/source/browse/ (readability.js)
+PHP Readability is licensed under the Apache License, Version 2.0 (the same license as the original JS version). The original Javascript version can be found here: <http://code.google.com/p/arc90labs-readability/source/browse/> (readability.js)
 
 ### Simple example
 
