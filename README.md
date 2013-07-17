@@ -11,6 +11,10 @@ Feel free to fork this and change/improve it. I would love to see your results. 
 
 PHP Readability is licensed under the Apache License, Version 2.0 (the same license as the original JS version). The original Javascript version can be found here: <http://code.google.com/p/arc90labs-readability/source/browse/> (readability.js)
 
+### Donate
+
+If you find this useful, please consider purchasing [Full-Text RSS](http://fivefilters.org/content-only/) or donating via [Gittip](https://www.gittip.com/fivefilters/)
+
 ### Simple example
 
 	<?php
